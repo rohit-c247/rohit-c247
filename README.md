@@ -66,6 +66,6 @@ Feel free to reach out to me if you are interested in collaborating on exciting 
 
 - LinkedIn: [Rohit Agrawal](https://linkedin.com/in/rohit-agrawal-84510591)
 - Case Studies: [Chapter247](https://www.chapter247.com/case-studies/)
-- Email: rohita.j@chapter247.com
+- Email: rohit.a@chapter247.com
 
 Welcome to my profile! Together, let's work towards making the tech world a better place. Wishing you happy coding! 🚀
